@@ -5,6 +5,7 @@ This base must be accepted as the First command line argument. Restrict your exp
 
 
 ##Installation For Window------------------------
+
 Make sure Java is installed on your machine.
 
 Extract the zip file, and navigate to extracted MA02DecConverter folder. 
@@ -36,6 +37,7 @@ Example Output:
 
 
 ##Installation For Unix------------------------
+
 Make sure Java is installed on your machine.
 
 Extract the zip file, and navigate to extracted MA02DecConverter folder. 
