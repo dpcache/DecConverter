@@ -1,0 +1,16 @@
+plugins {
+	id 'application'
+}
+
+java {
+	sourceCompatibility = JavaVersion.VERSION_1_8
+	targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+mainClassName = 'Convert'
+
+jar {
+	manifest {
+		attributes "Main-Class": "$mainClassName"
+	}
+}
