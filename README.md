@@ -1,10 +1,10 @@
-#Machine Assignment 2A
+# Machine Assignment 2A
 
 Write a program that receives a real number in decimal (base 10) and converts it into any base (e.g., 2, 8, 16, 60). 
 This base must be accepted as the First command line argument. Restrict your expected input to numbers in the domain 0 to (inclusive) to 1 (exclusive).
 
 
-##Installation For Window------------------------
+## Installation For Window------------------------
 
 Make sure Java is installed on your machine.
 
@@ -36,7 +36,7 @@ Example Output:
 
 
 
-##Installation For Unix------------------------
+## Installation For Unix------------------------
 
 Make sure Java is installed on your machine.
 
@@ -55,6 +55,7 @@ Once the build is complete run the following command to start the converstion of
 
 Example: java -jar ./build/libs/MA02DecConverter.jar 2 0.5 -0.5 0.25 0.015
 Example Output:
+
 	Base 10: 0.5
 	Base 2: 0.1
 
@@ -70,6 +71,7 @@ Example Output:
 
 Example: java -jar ./build/libs/MA02DecConverter.jar 16 0.5 -0.5 0.25 0.015
 Example Output:
+
 	Base 10: 0.5
 	Base 16: 0.8
 
